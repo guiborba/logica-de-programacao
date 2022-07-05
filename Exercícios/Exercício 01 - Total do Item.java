@@ -6,7 +6,6 @@ Exemplo:
 Quantidade vendida do produto: 8
 Preço de venda: R$ 15,00
 Total do item: 8 x 15 => 120
-
 */
 
 public class Main {
